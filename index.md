@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="pt-BR" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
@@ -87,10 +87,6 @@
                 </a>
                 <a href="https://www.linkedin.com/in/henrique-riboli-junior-1382809a" target="_blank" rel="noopener noreferrer" class="bg-gray-700 hover:bg-gray-600 text-gray-200 px-4 py-2 rounded-full transition-colors duration-200 flex items-center">
                     🔗 <span class="ml-2">LinkedIn</span>
-                </a>
-                <a href="tel:+5516997387919" class="bg-gray-700 hover:bg-gray-600 text-gray-200 px-4 py-2 rounded-full transition-colors duration-200 flex items-center">
-                    📞 <span class="ml-2">(16) 99738-7919</span>
-                </a>
             </div>
         </section>
 
